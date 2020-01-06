@@ -5,7 +5,9 @@ import './App.css';
 function App() {
 
   // $%$Start
+
   let demo_string = "It's magical!!!"
+  
   // $%$End
 
   return (
